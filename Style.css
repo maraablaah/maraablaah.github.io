@@ -112,7 +112,7 @@ header nav ul li a:hover
 {
 	min-height: 100vh;
 	width: 100%;
-	background-image: url("file:///Users/administrator/Desktop/Website/Img/Banner.jpg");
+	background-image: url("https://github.com/maraablaah/siteimages/blob/main/Img/Banner.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
